@@ -1,5 +1,5 @@
 {
-  "name": "vpcapi",
+  "name": "ptocrypt",
   "version": 2,
   "routes": [
     {"src": "/(.*)","dest": "https://ptocrypt.xrabbitz.workers.dev/$1"}

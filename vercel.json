@@ -1,0 +1,7 @@
+{
+  "name": "vpcapi",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://api.cryptapi.io/$1"}
+  ]
+}

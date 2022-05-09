@@ -2,6 +2,6 @@
   "name": "vpcapi",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://api.cryptapi.io/$1"}
+    {"src": "/(.*)","dest": "https://ptocrypt.xrabbitz.workers.dev/$1"}
   ]
 }

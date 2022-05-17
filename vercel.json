@@ -2,6 +2,6 @@
   "name": "ptocrypt",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://ptocrypt.xrabbitz.workers.dev/$1"}
+    {"src": "/(.*)","dest": "https://api.cryptapi.io/$1"}
   ]
 }
